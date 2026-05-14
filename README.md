@@ -208,6 +208,7 @@ The Power BI dashboard provides a complete overview of:
 - Interactive Slicers
 
 ---
+<img width="1534" height="890" alt="image" src="https://github.com/user-attachments/assets/5bf8c477-b3c3-44b0-b49f-e15b2eb7c458" />
 
 # 📊 Executive Summary (KPI Metrics)
 
