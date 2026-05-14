@@ -131,7 +131,8 @@ This histogram shows EV sales distribution across regions.
 ### Insight
 EV adoption varies significantly across countries.
 
----
+---<img width="747" height="489" alt="image" src="https://github.com/user-attachments/assets/bdfec511-bc57-4dc4-bcfa-819388bc9ddb" />
+
 
 ## 📊 Boxplot – EV Price Distribution
 
@@ -141,7 +142,9 @@ This boxplot identifies EV price spread and outliers.
 ### Insight
 Some EVs belong to premium market categories.
 
----
+---<img width="542" height="379" alt="boxplot" src="https://github.com/user-attachments/assets/15a4179b-5c72-4f8a-b152-15b303b27597" />
+
+
 
 # 📊 Bivariate Analysis
 
@@ -153,7 +156,8 @@ Shows relationship between charging infrastructure and EV adoption.
 ### Insight
 Higher charging station availability increases EV sales.
 
----
+---<img width="723" height="489" alt="Scatter plot" src="https://github.com/user-attachments/assets/212cbada-8be5-489c-97e0-2959bcec38ad" />
+
 
 ## 📊 Bar Chart – Government Incentives Impact
 
@@ -163,7 +167,8 @@ Compares EV sales between regions with and without incentives.
 ### Insight
 Government incentives positively influence EV adoption.
 
----
+---<img width="628" height="471" alt="Bar chart" src="https://github.com/user-attachments/assets/04088e02-f57b-4533-b77d-8d289e5f463a" />
+
 
 # 📊 Multivariate Analysis
 
@@ -175,7 +180,8 @@ Displays relationships among multiple variables.
 ### Insight
 Charging stations and EV sales show strong positive correlation.
 
----
+---<img width="956" height="739" alt="Heat Map" src="https://github.com/user-attachments/assets/4c9969ed-6511-4794-948b-d704ebc8e932" />
+
 
 ## 📊 Pairplot
 
@@ -185,7 +191,8 @@ Shows relationships between EV sales, pricing, range, and infrastructure.
 ### Insight
 Infrastructure and vehicle range positively influence EV adoption.
 
----
+---<img width="1041" height="679" alt="Pair plot" src="https://github.com/user-attachments/assets/93c06c76-3d74-4b69-99d6-23582674f2cd" />
+
 
 # 🔹 Stage 4 – Dashboard, Insights and Presentation
 
